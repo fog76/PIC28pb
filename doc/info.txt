@@ -1,0 +1,6 @@
+
+files in the folder:
+
+    Manuale.pdf           : User guide written in italian
+    User_manual.pdf       : User guide written in english
+    PIC28pb_Schematic.pdf : Schematics of proto board
